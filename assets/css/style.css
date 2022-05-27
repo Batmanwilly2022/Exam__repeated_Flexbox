@@ -31,3 +31,36 @@ body {
       align-items: center;
       gap: 0.5rem;
   }
+  /**header end here**/
+
+  /**main start here**/
+  .box{
+    margin: 0 auto;
+    width: 90%;
+}
+
+.top__main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    min-height: 70px;
+    background-color: white;
+}
+
+.color{
+    background-color:#FFFFFF;
+}
+
+
+img{
+    display: block;
+    max-width: 100%;
+    
+}
+.aside__link{
+    text-decoration: none;
+
+}
+
+
