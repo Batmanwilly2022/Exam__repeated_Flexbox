@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600&display=swap');
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    text-rendering: optimizeSpeed;
+    line-height: 1.5;
+    background-color: #F2F2F2;
+  }
+
+  .header__top{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F2F2F2;
+    position: relative;
+    min-height: 70px;
+    border: none;
+    align-items: center;
+}
+  a:hover{
+      background-color: #337ab7;
+      height: 20%;
+  }
+
+  .center__icons{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 0.5rem;
+  }
