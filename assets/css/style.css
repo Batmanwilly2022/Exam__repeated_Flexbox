@@ -144,6 +144,30 @@ h4{
 
 /**main boxes end here**/
 
+/**main button start here**/
+.button_D{
+    text-align: center;
+    margin-top: 2rem;
+}
+.contact_us{
+      text-align: center;
+      background-color: #E748a2;
+      width: 30%;
+      justify-self: center;
+      border-radius: 10px;
+      position: relative;
+}
+.contact_us{
+      text-decoration: none;
+      color: #FFFFFF;
+      padding: 1rem;
+}
+
+.contact_us:hover{
+      background-color: black;
+}
+/** main button end here**/
+
 
 
 
